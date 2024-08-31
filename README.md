@@ -5,4 +5,5 @@
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaotrog1&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotrog1)](https://github.com/joaotrog1/github-readme-stats)
 <br/>
